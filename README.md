@@ -16,4 +16,28 @@ Git is the leading version control tool, and it is essential in every profession
 
 <strong>Note:</strong> Once you are done with the installation process, you should get the information about Git while running <b>git</b> on the command line
 
+<strong>Git configuration</strong>
+
+<i>Run each of the commands below to configure your Git:</i>
+
+    A. git config --global user.name "<Full_Name>" # seting up Git with your name
+
+    B. git config --global user.email "<your-email-address>" # seting up Git with your email
+
+    C. git config --list # showing the list of the configuration 
+
+<strong>Code Editor Setup</strong>
+
+<i>Follow the steps below to set up your desired Code Editor:</i>
+
+    <b> 1. Sublime Text Setup </b>
+       git config --global core.editor "'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl' -n -w"
+    <b> 2. Atom Editor Setup </b>
+       git config --global core.editor "atom --wait"
+    <b> 3. VSCode Setup </b>    
+       git config --global core.editor "code --wait"
+
+
+
+
 
