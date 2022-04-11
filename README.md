@@ -31,11 +31,11 @@ Git is the leading version control tool, and it is essential in every profession
 <i>Follow the steps below to set up your desired Code Editor:</i>
 
 <b> 1. Sublime Text Setup </b>
-       git config --global core.editor "'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl' -n -w"
+       A. git config --global core.editor "'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl' -n -w"
 <b> 2. Atom Editor Setup </b>
-       git config --global core.editor "atom --wait"
+       B. git config --global core.editor "atom --wait"
 <b> 3. VSCode Setup </b>    
-       git config --global core.editor "code --wait"
+       C. git config --global core.editor "code --wait"
 
 
 
