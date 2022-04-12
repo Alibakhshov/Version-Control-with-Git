@@ -6,7 +6,7 @@ Introduction:
 Git is the leading version control tool, and it is essential in every professional programmer's life. Learn how to use Git to track your own changes and collaborate with others.
 
 
-<strong> Installing Git on Mac/Linux based system </strong>
+<strong> Installation process of Git  </strong>
 
 <i>Follow the steps below:</i>
 
