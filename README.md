@@ -10,7 +10,7 @@ Git is the leading version control tool, and it is essential in every profession
 
 <i>Follow the steps below:</i>
 
-A. Go to <a href="https://git-scm.com/downloads"> </a>
+A. Go to <a href="https://git-scm.com/downloads">
 B. Download Git for your desired OS
 C. Install Git by your OS default options
 
