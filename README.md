@@ -16,7 +16,7 @@ Git is the leading version control tool, and it is essential in every profession
 
 <strong>Note:</strong> Once you are done with the installation process, you should get the information about Git while running <b>git</b> on the command line
 
-<strong><a href = "https://www.javatpoint.com/git-commands">Basic Git Commands</a></strong>
+<strong><a href = "https://www.javatpoint.com/git-commands">Basic Git Commands:</a></strong>
 <ul>
     <li><a href = "https://www.javatpoint.com/git-commands#init-command">Git init command</a></li>
     <li><a href = "https://www.javatpoint.com/git-commands#clone-command">Git clone command</a></li>
