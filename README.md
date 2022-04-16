@@ -1,4 +1,4 @@
-# Version-Control-with-Git-Tutorial
+# Version-Control-with-Git-Tutorial (by Udacity)
 <strong>A fully guided tutorial on version control with Git</strong> 
 
 <strong>Introduction:</strong>
