@@ -36,7 +36,7 @@ Git is the leading version control tool, and it is essential in every profession
 
 <i>Run each of the commands below to configure your Git:</i>
 
-    A. git config --global user.name "<Full_Name>" <strong># seting up Git with your name</strong>
+    A. git config --global user.name "<Full_Name>" # seting up Git with your name
 
     B. git config --global user.email "<your-email-address>" # seting up Git with your email
 
