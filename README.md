@@ -16,7 +16,7 @@ Git is the leading version control tool, and it is essential in every profession
 
 <strong>Note:</strong> Once you are done with the installation process, you should get the information about Git while running <b>git</b> on the command line
 
-<b>Table of the content:</b>
+<b>Table of the contents:</b>
 <ul>
     <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Intro%20to%20Git.ipynb">Intro to Git</a></li>
     <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Creating%20a%20Git%20repo.ipynb">Creating a Git repo</a></li>
