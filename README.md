@@ -19,11 +19,11 @@ Git is the leading version control tool, and it is essential in every profession
 <b>Table of the content:</b>
 <ul>
     <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Intro%20to%20Git.ipynb">Intro to Git</a></li>
-    <li><a href = "">Creating a Git repo</a></li>
-    <li><a href = "">Cloning the existing repo</a></li>
-    <li><a href = ""></a></li>
-    <li><a href = ""></a></li>
-    <li><a href = ""></a></li>
+    <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Creating%20a%20Git%20repo.ipynb">Creating a Git repo</a></li>
+    <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Cloning%20the%20existing%20repo.ipynb">Cloning the existing repo</a></li>
+    <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Determining%20a%20Repo's%20Status.ipynb">Determining a Repo's Status</a></li>
+    <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Displaying%20a%20repository%20commits.ipynb">Displaying a repository commits</a></li>
+    <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Add%20commits%20to%20a%20repo.ipynb">Add commits to a repo</a></li>
 </ul>
 
 <strong><a href = "https://www.javatpoint.com/git-commands">Basic Git Commands:</a></strong>
