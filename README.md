@@ -25,6 +25,8 @@ Git is the leading version control tool, and it is essential in every profession
     <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Displaying%20a%20repository%20commits.ipynb">Displaying a repository commits</a></li>
     <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git-Tutorial/blob/main/Add%20commits%20to%20a%20repo.ipynb">Add commits to a repo</a></li>
     <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git/blob/main/Tagging%2C%20branching%20and%20merging.ipynb">Tagging, branching and merging</a></li>
+    <li><a href = "https://github.com/Alibakhshov/Version-Control-with-Git/blob/main/Undoing%20changes.ipynb">Undoing changes</a></li>
+    
 </ul>
 
 <strong><a href = "https://www.javatpoint.com/git-commands">Basic Git Commands:</a></strong>
